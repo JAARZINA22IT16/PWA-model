@@ -1,0 +1,13 @@
+{
+  "name": "pwa-model",
+  "version": "1.0.0",
+  "description": "A Progressive Web App model project",
+  "scripts": {
+    "lint": "echo \"No linting configured\"",
+    "test": "echo \"No tests configured\"",
+    "build": "echo \"No build script configured\"",
+    "start": "echo \"No start script configured\""
+  },
+  "author": "",
+  "license": "ISC"
+}
