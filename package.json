@@ -9,8 +9,9 @@
     "start": "serve -s dist"
   },
   "devDependencies": {
-    "serve": "^14.2.4"
-  },
+  "vite": "^5.0.0",        
+  "serve": "^14.2.4"
+}
   "author": "",
   "license": "ISC"
 }
