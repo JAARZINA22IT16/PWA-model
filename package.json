@@ -5,8 +5,11 @@
   "scripts": {
     "lint": "echo \"No linting configured\"",
     "test": "echo \"No tests configured\"",
-    "build": "echo \"No build script configured\"",
-    "start": "echo \"No start script configured\""
+    "build": "vite build",        // or replace with your actual build tool like "ng build" or "react-scripts build"
+    "start": "serve -s dist"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
   },
   "author": "",
   "license": "ISC"
